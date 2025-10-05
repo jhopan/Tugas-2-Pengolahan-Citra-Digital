@@ -389,24 +389,6 @@ Potential improvements untuk development selanjutnya:
 - [ ] Performance benchmarking dan optimization
 - [ ] Export ke format video (untuk motion detection)
 
-## 📞 **Contact & Support**
-
-**Developer:** Jhosua Armando Putra Panjaitan  
-**Institution:** Universitas Pembangunan Jaya  
-**Course:** Pengolahan Citra Digital  
-**Academic Year:** 2024/2025
-
-**Project Structure:** Modular Python application  
-**Completion Date:** October 2025  
-**Status:** ✅ Completed & Ready for submission
-
 ---
 
-### 📄 **Quick Reference**
-
-**Start Program:** `python main_program.py`  
-**Demo All:** Choose option `5` from menu  
-**View Results:** Check `hasil_pengolahan/` folder  
-**Read Analysis:** Open `LAPORAN_TUGAS2_PCD_SIMPLE.md`
-
-**🎉 Project Ready for Academic Submission! 🎉**
+**Developer:** Jhosua Armando Putra Panjaitan
